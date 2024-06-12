@@ -1,0 +1,9 @@
+# The mode can be "per_player" or "global"
+# per_player will allow players to toggle phantoms for themselves
+# global will toggle phantoms for everyone depending on how many players have it enabled
+mode: "per_player"
+
+command:
+  name: "phantoms"
+  permission: "nomorephantoms.command"
+  permission-message: "&cYou do not have permission to use this command."

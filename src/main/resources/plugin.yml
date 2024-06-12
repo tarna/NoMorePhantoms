@@ -1,0 +1,7 @@
+name: NoMorePhantoms
+version: 1.0.0
+main: dev.tarna.nomorephantoms.NoMorePhantoms
+description: A plugin that allows you to disable phantoms either per player or globally.
+author: Tarna
+website: https://github.com/tarna/NoMorePhantoms
+api-version: '1.20.6'
